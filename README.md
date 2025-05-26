@@ -4,7 +4,7 @@ A Java implementation of an interpreter for the PL/0 programming language. PL/0 
 
 ## Features
 
-- Handwriten lexical analyser, recursive descent parser, and runtime interpreter
+- Handwriten lexical analyzer, recursive descent parser, and runtime interpreter
 - Full implementation of the language
 - Uses `!` to print and `?` to read (see `calculator.pl0` for example)
 
